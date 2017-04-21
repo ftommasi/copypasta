@@ -1,0 +1,1 @@
+This is a simple C program with minimal dependencies such that the appeareance of live typing occurs. It is written in such a way as to allow it to run on the most devices possible, not necessarily what the best way for an x86/x64 codebase would look like 
